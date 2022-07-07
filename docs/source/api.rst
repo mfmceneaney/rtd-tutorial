@@ -1,7 +1,8 @@
 API
 ===
 
-.. autosummary::
-   :toctree: generated
+.. automodule:: lumache
+    :members:
+    :undoc-members:
+    :show-inheritance:
 
-   lumache
