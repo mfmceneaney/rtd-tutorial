@@ -20,3 +20,11 @@ Contents
 
    usage
    api
+
+.. include:: main.toctree
+
+.. toctree::
+    :caption: Modules
+    :hidden:
+
+.. include:: lumache.toctree
