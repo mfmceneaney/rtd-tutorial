@@ -1,3 +1,11 @@
+.. include:: main.toctree
+
+.. toctree::
+    :caption: Modules
+    :hidden:
+
+.. include:: lumache.toctree
+
 Welcome to Lumache's documentation!
 ===================================
 
@@ -20,11 +28,3 @@ Contents
 
    usage
    api
-
-.. include:: main.toctree
-
-.. toctree::
-    :caption: Modules
-    :hidden:
-
-.. include:: lumache.toctree
